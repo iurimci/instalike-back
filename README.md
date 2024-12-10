@@ -1,2 +1,2 @@
-Neste projeto como imersão back-end em Node.js, pude experimentar um pouco do que é programar em Node.js, que é incrível, pude conhecer de perto as modulações, importação básicas em banco de dados no MongoDB, e as noções básicas de código em Node.js, quero me aprofundar mais ainda nessa linguagem e em desenvolvimento tanto e software.
+Neste projeto como imersão back-end em Node.js, pude experimentar um pouco do que é programar em Node.js, que é incrível, pude conhecer de perto as modulações, importação básicas em banco de dados no MongoDB, e as noções básicas de código em Node.js, quero me aprofundar mais ainda nessa linguagem e em desenvolvimento tanto em software quanto web.
 OBS: Foi dado os códigos do HTML e CSS do navegador antecipadamente.
